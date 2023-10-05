@@ -1,0 +1,30 @@
+{
+  "name": "config",
+  "version": "1.0.0",
+  "description": "configuraciones de eslint y prettier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luisalarcon1992/configuraciones.git"
+  },
+  "author": "Luis Alarcon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luisalarcon1992/configuraciones/issues"
+  },
+  "homepage": "https://github.com/Luisalarcon1992/configuraciones#readme",
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.28.1",
+    "eslint-plugin-n": "^16.1.0",
+    "eslint-plugin-promise": "^6.1.1"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^9.0.0",
+    "prettier": "^3.0.3"
+  }
+}
